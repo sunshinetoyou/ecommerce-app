@@ -1,3 +1,10 @@
+## 온라인 서비스 아키텍처
+
+https://vision-ai.tistory.com/entry/On-Premise-%EC%99%80-Cloud-Services
+
+---
+
+
 # ShopEasy 로컬 실행 가이드
 
 ---
