@@ -1,3 +1,13 @@
+## git bash 에서 aws cli 경로 설정 하는 방법 
+
+```bash
+$ echo "alias aws='\"/c/Program Files/Amazon/AWSCLIV2/aws.exe\"'" >> ~/.bashrc
+$ source ~/.bashrc
+$ aws --version
+```
+
+---
+
 ## 온라인 서비스 아키텍처
 
 https://vision-ai.tistory.com/entry/On-Premise-%EC%99%80-Cloud-Services
